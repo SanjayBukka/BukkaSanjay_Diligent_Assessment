@@ -1,0 +1,10 @@
+Diligent is a global governance, risk, and compliance (GRC) SaaS company.
+It provides software solutions that help boards, executives, and legal teams
+manage corporate governance, risk oversight, and regulatory compliance.
+
+Diligent’s platform centralizes board materials, improves decision-making,
+and enables secure collaboration. The company focuses on enterprise security,
+data privacy, and regulatory compliance.
+
+Key product areas include board management, risk management, audit,
+compliance tracking, and ESG reporting.

@@ -5,3 +5,4 @@ pinecone
 sentence-transformers
 python-dotenv
 requests
+pydantic
