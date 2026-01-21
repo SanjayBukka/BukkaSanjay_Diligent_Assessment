@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 streamlit
-pinecone-client
+pinecone
 sentence-transformers
-requests
 python-dotenv
+requests
